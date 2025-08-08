@@ -1,0 +1,54 @@
+{
+  "label": "PSE Index Summary",
+  "timestamp": "2025-07-29T10:05:02.855872",
+  "data": [
+    {
+      "Index": "PSEi",
+      "Value": "6,325.42",
+      "Chg": "54.33",
+      "%Chg": "0.85\u25bc"
+    },
+    {
+      "Index": "All Shares",
+      "Value": "3,780.08",
+      "Chg": "13.41",
+      "%Chg": "0.35\u25bc"
+    },
+    {
+      "Index": "Financials",
+      "Value": "2,236.31",
+      "Chg": "1.65",
+      "%Chg": "0.07\u25bc"
+    },
+    {
+      "Index": "Industrial",
+      "Value": "9,096.97",
+      "Chg": "0.79",
+      "%Chg": "0.01\u25bc"
+    },
+    {
+      "Index": "Holding Firms",
+      "Value": "5,403.78",
+      "Chg": "38.05",
+      "%Chg": "0.70\u25bc"
+    },
+    {
+      "Index": "Services",
+      "Value": "2,224.39",
+      "Chg": "45.77",
+      "%Chg": "2.02\u25bc"
+    },
+    {
+      "Index": "Mining and Oil",
+      "Value": "9,093.87",
+      "Chg": "159.41",
+      "%Chg": "1.72\u25bc"
+    },
+    {
+      "Index": "Property",
+      "Value": "2,359.42",
+      "Chg": "1.00",
+      "%Chg": "0.04\u25b2"
+    }
+  ]
+}

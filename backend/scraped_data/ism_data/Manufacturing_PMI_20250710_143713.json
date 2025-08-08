@@ -1,0 +1,105 @@
+{
+  "label": "Manufacturing PMI",
+  "timestamp": "2025-07-10T14:37:13.331427",
+  "data": [
+    {
+      "Index": "Manufacturing PMI\u00ae",
+      "Series Index Mar": "49.0",
+      "Series Index Feb": "48.5",
+      "Percentage Point Change": "+0.5",
+      "Direction": "Contracting",
+      "Rate of Change": "Slower",
+      "Trend (Months)": "4"
+    },
+    {
+      "Index": "New Orders",
+      "Series Index Mar": "46.4",
+      "Series Index Feb": "47.6",
+      "Percentage Point Change": "-1.2",
+      "Direction": "Contracting",
+      "Rate of Change": "Faster",
+      "Trend (Months)": "5"
+    },
+    {
+      "Index": "Production",
+      "Series Index Mar": "50.3",
+      "Series Index Feb": "45.4",
+      "Percentage Point Change": "+4.9",
+      "Direction": "Growing",
+      "Rate of Change": "From Contracting",
+      "Trend (Months)": "1"
+    },
+    {
+      "Index": "Employment",
+      "Series Index Mar": "45.0",
+      "Series Index Feb": "46.8",
+      "Percentage Point Change": "-1.8",
+      "Direction": "Contracting",
+      "Rate of Change": "Faster",
+      "Trend (Months)": "5"
+    },
+    {
+      "Index": "Supplier Deliveries",
+      "Series Index Mar": "54.2",
+      "Series Index Feb": "56.1",
+      "Percentage Point Change": "-1.9",
+      "Direction": "Slowing",
+      "Rate of Change": "Slower",
+      "Trend (Months)": "7"
+    },
+    {
+      "Index": "Inventories",
+      "Series Index Mar": "49.2",
+      "Series Index Feb": "46.7",
+      "Percentage Point Change": "+2.5",
+      "Direction": "Contracting",
+      "Rate of Change": "Slower",
+      "Trend (Months)": "2"
+    },
+    {
+      "Index": "Customers\u2019 Inventories",
+      "Series Index Mar": "46.7",
+      "Series Index Feb": "44.5",
+      "Percentage Point Change": "+2.2",
+      "Direction": "Too Low",
+      "Rate of Change": "Slower",
+      "Trend (Months)": "9"
+    },
+    {
+      "Index": "Prices",
+      "Series Index Mar": "69.7",
+      "Series Index Feb": "69.4",
+      "Percentage Point Change": "+0.3",
+      "Direction": "Increasing",
+      "Rate of Change": "Faster",
+      "Trend (Months)": "9"
+    },
+    {
+      "Index": "Backlog of Orders",
+      "Series Index Mar": "44.3",
+      "Series Index Feb": "47.1",
+      "Percentage Point Change": "-2.8",
+      "Direction": "Contracting",
+      "Rate of Change": "Faster",
+      "Trend (Months)": "33"
+    },
+    {
+      "Index": "New Export Orders",
+      "Series Index Mar": "46.3",
+      "Series Index Feb": "40.1",
+      "Percentage Point Change": "+6.2",
+      "Direction": "Contracting",
+      "Rate of Change": "Slower",
+      "Trend (Months)": "4"
+    },
+    {
+      "Index": "Imports",
+      "Series Index Mar": "47.4",
+      "Series Index Feb": "39.9",
+      "Percentage Point Change": "+7.5",
+      "Direction": "Contracting",
+      "Rate of Change": "Slower",
+      "Trend (Months)": "3"
+    }
+  ]
+}

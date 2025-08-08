@@ -1,0 +1,30 @@
+{
+  "label": "Hospital PMI",
+  "timestamp": "2025-07-10T14:37:07.889287",
+  "data": [
+    {
+      "month": "Jun 2025",
+      "Hospital PMI": "49.0"
+    },
+    {
+      "month": "May 2025",
+      "Hospital PMI": "52.0"
+    },
+    {
+      "month": "Apr 2025",
+      "Hospital PMI": "55.0"
+    },
+    {
+      "month": "Mar 2025",
+      "Hospital PMI": "51.0"
+    },
+    {
+      "month": "Feb 2025",
+      "Hospital PMI": "56.0"
+    },
+    {
+      "month": "Jan 2025",
+      "Hospital PMI": "53.5"
+    }
+  ]
+}

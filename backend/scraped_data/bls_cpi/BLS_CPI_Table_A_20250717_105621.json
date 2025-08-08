@@ -1,0 +1,249 @@
+{
+  "label": "BLS CPI Table A",
+  "timestamp": "2025-07-17T10:56:21.824303",
+  "data": [
+    {
+      "": "Dec.2024",
+      "Seasonally adjusted changes from preceding month": "Jan.2025",
+      "Un-adjusted12-mos.endedJun. 2025": "Feb.2025",
+      "Dec.2024": "Mar.2025",
+      "Jan.2025": "Apr.2025",
+      "Feb.2025": "May2025",
+      "Mar.2025": "Jun.2025"
+    },
+    {
+      "": "All items",
+      "Seasonally adjusted changes from preceding month": "0.4",
+      "Un-adjusted12-mos.endedJun. 2025": "0.5",
+      "Dec.2024": "0.2",
+      "Jan.2025": "-0.1",
+      "Feb.2025": "0.2",
+      "Mar.2025": "0.1",
+      "Apr.2025": "0.3",
+      "May2025": "2.7"
+    },
+    {
+      "": "Food",
+      "Seasonally adjusted changes from preceding month": "0.3",
+      "Un-adjusted12-mos.endedJun. 2025": "0.4",
+      "Dec.2024": "0.2",
+      "Jan.2025": "0.4",
+      "Feb.2025": "-0.1",
+      "Mar.2025": "0.3",
+      "Apr.2025": "0.3",
+      "May2025": "3.0"
+    },
+    {
+      "": "Food at home",
+      "Seasonally adjusted changes from preceding month": "0.3",
+      "Un-adjusted12-mos.endedJun. 2025": "0.5",
+      "Dec.2024": "0.0",
+      "Jan.2025": "0.5",
+      "Feb.2025": "-0.4",
+      "Mar.2025": "0.3",
+      "Apr.2025": "0.3",
+      "May2025": "2.4"
+    },
+    {
+      "": "Food away from home(1)",
+      "Seasonally adjusted changes from preceding month": "0.3",
+      "Un-adjusted12-mos.endedJun. 2025": "0.2",
+      "Dec.2024": "0.4",
+      "Jan.2025": "0.4",
+      "Feb.2025": "0.4",
+      "Mar.2025": "0.3",
+      "Apr.2025": "0.4",
+      "May2025": "3.8"
+    },
+    {
+      "": "Energy",
+      "Seasonally adjusted changes from preceding month": "2.4",
+      "Un-adjusted12-mos.endedJun. 2025": "1.1",
+      "Dec.2024": "0.2",
+      "Jan.2025": "-2.4",
+      "Feb.2025": "0.7",
+      "Mar.2025": "-1.0",
+      "Apr.2025": "0.9",
+      "May2025": "-0.8"
+    },
+    {
+      "": "Energy commodities",
+      "Seasonally adjusted changes from preceding month": "3.9",
+      "Un-adjusted12-mos.endedJun. 2025": "1.9",
+      "Dec.2024": "-0.9",
+      "Jan.2025": "-6.1",
+      "Feb.2025": "-0.2",
+      "Mar.2025": "-2.4",
+      "Apr.2025": "1.0",
+      "May2025": "-7.9"
+    },
+    {
+      "": "Gasoline (all types)",
+      "Seasonally adjusted changes from preceding month": "4.0",
+      "Un-adjusted12-mos.endedJun. 2025": "1.8",
+      "Dec.2024": "-1.0",
+      "Jan.2025": "-6.3",
+      "Feb.2025": "-0.1",
+      "Mar.2025": "-2.6",
+      "Apr.2025": "1.0",
+      "May2025": "-8.3"
+    },
+    {
+      "": "Fuel oil",
+      "Seasonally adjusted changes from preceding month": "2.1",
+      "Un-adjusted12-mos.endedJun. 2025": "6.2",
+      "Dec.2024": "0.8",
+      "Jan.2025": "-4.2",
+      "Feb.2025": "-1.3",
+      "Mar.2025": "0.9",
+      "Apr.2025": "1.3",
+      "May2025": "-4.7"
+    },
+    {
+      "": "Energy services",
+      "Seasonally adjusted changes from preceding month": "0.8",
+      "Un-adjusted12-mos.endedJun. 2025": "0.3",
+      "Dec.2024": "1.4",
+      "Jan.2025": "1.6",
+      "Feb.2025": "1.5",
+      "Mar.2025": "0.4",
+      "Apr.2025": "0.9",
+      "May2025": "7.5"
+    },
+    {
+      "": "Electricity",
+      "Seasonally adjusted changes from preceding month": "0.2",
+      "Un-adjusted12-mos.endedJun. 2025": "0.0",
+      "Dec.2024": "1.0",
+      "Jan.2025": "0.9",
+      "Feb.2025": "0.8",
+      "Mar.2025": "0.9",
+      "Apr.2025": "1.0",
+      "May2025": "5.8"
+    },
+    {
+      "": "Utility (piped) gas service",
+      "Seasonally adjusted changes from preceding month": "2.8",
+      "Un-adjusted12-mos.endedJun. 2025": "1.8",
+      "Dec.2024": "2.5",
+      "Jan.2025": "3.6",
+      "Feb.2025": "3.7",
+      "Mar.2025": "-1.0",
+      "Apr.2025": "0.5",
+      "May2025": "14.2"
+    },
+    {
+      "": "All items less food and energy",
+      "Seasonally adjusted changes from preceding month": "0.2",
+      "Un-adjusted12-mos.endedJun. 2025": "0.4",
+      "Dec.2024": "0.2",
+      "Jan.2025": "0.1",
+      "Feb.2025": "0.2",
+      "Mar.2025": "0.1",
+      "Apr.2025": "0.2",
+      "May2025": "2.9"
+    },
+    {
+      "": "Commodities less food and energy commodities",
+      "Seasonally adjusted changes from preceding month": "0.0",
+      "Un-adjusted12-mos.endedJun. 2025": "0.3",
+      "Dec.2024": "0.2",
+      "Jan.2025": "-0.1",
+      "Feb.2025": "0.1",
+      "Mar.2025": "0.0",
+      "Apr.2025": "0.2",
+      "May2025": "0.7"
+    },
+    {
+      "": "New vehicles",
+      "Seasonally adjusted changes from preceding month": "0.4",
+      "Un-adjusted12-mos.endedJun. 2025": "0.0",
+      "Dec.2024": "-0.1",
+      "Jan.2025": "0.1",
+      "Feb.2025": "0.0",
+      "Mar.2025": "-0.3",
+      "Apr.2025": "-0.3",
+      "May2025": "0.2"
+    },
+    {
+      "": "Used cars and trucks",
+      "Seasonally adjusted changes from preceding month": "0.8",
+      "Un-adjusted12-mos.endedJun. 2025": "2.2",
+      "Dec.2024": "0.9",
+      "Jan.2025": "-0.7",
+      "Feb.2025": "-0.5",
+      "Mar.2025": "-0.5",
+      "Apr.2025": "-0.7",
+      "May2025": "2.8"
+    },
+    {
+      "": "Apparel",
+      "Seasonally adjusted changes from preceding month": "0.1",
+      "Un-adjusted12-mos.endedJun. 2025": "-1.4",
+      "Dec.2024": "0.6",
+      "Jan.2025": "0.4",
+      "Feb.2025": "-0.2",
+      "Mar.2025": "-0.4",
+      "Apr.2025": "0.4",
+      "May2025": "-0.5"
+    },
+    {
+      "": "Medical care commodities(1)",
+      "Seasonally adjusted changes from preceding month": "0.0",
+      "Un-adjusted12-mos.endedJun. 2025": "1.2",
+      "Dec.2024": "0.1",
+      "Jan.2025": "-1.1",
+      "Feb.2025": "0.4",
+      "Mar.2025": "0.6",
+      "Apr.2025": "0.1",
+      "May2025": "0.2"
+    },
+    {
+      "": "Services less energy services",
+      "Seasonally adjusted changes from preceding month": "0.3",
+      "Un-adjusted12-mos.endedJun. 2025": "0.5",
+      "Dec.2024": "0.3",
+      "Jan.2025": "0.1",
+      "Feb.2025": "0.3",
+      "Mar.2025": "0.2",
+      "Apr.2025": "0.3",
+      "May2025": "3.6"
+    },
+    {
+      "": "Shelter",
+      "Seasonally adjusted changes from preceding month": "0.3",
+      "Un-adjusted12-mos.endedJun. 2025": "0.4",
+      "Dec.2024": "0.3",
+      "Jan.2025": "0.2",
+      "Feb.2025": "0.3",
+      "Mar.2025": "0.3",
+      "Apr.2025": "0.2",
+      "May2025": "3.8"
+    },
+    {
+      "": "Transportation services",
+      "Seasonally adjusted changes from preceding month": "0.5",
+      "Un-adjusted12-mos.endedJun. 2025": "1.8",
+      "Dec.2024": "-0.8",
+      "Jan.2025": "-1.4",
+      "Feb.2025": "0.1",
+      "Mar.2025": "-0.2",
+      "Apr.2025": "0.2",
+      "May2025": "3.4"
+    },
+    {
+      "": "Medical care services",
+      "Seasonally adjusted changes from preceding month": "0.2",
+      "Un-adjusted12-mos.endedJun. 2025": "0.0",
+      "Dec.2024": "0.3",
+      "Jan.2025": "0.5",
+      "Feb.2025": "0.5",
+      "Mar.2025": "0.2",
+      "Apr.2025": "0.6",
+      "May2025": "3.4"
+    },
+    {
+      "": "Footnotes(1)Not seasonally adjusted."
+    }
+  ]
+}

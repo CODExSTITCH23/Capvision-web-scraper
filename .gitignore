@@ -1,0 +1,15 @@
+# Ignore Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+
+# Ignore Node
+node_modules/
+build/
+
+# Others
+.DS_Store
+.env

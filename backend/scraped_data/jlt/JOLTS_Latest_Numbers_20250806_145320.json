@@ -1,0 +1,48 @@
+{
+  "label": "JOLTS Latest Numbers",
+  "timestamp": "2025-08-06T14:53:20.044354",
+  "data": [
+    {
+      "title": "Total US nonfarm , Job openings, seasonally adjusted",
+      "data_value": "7,437,000(p)",
+      "period": "Jun",
+      "year": "2025",
+      "full_text": "7,437,000(p)inJun2025"
+    },
+    {
+      "title": "Total US nonfarm , Job openings rate, seasonally adjusted",
+      "data_value": "4.4%(p)",
+      "period": "Jun",
+      "year": "2025",
+      "full_text": "4.4%(p)inJun2025"
+    },
+    {
+      "title": "Total US nonfarm , Hires rate, seasonally adjusted",
+      "data_value": "3.3%(p)",
+      "period": "Jun",
+      "year": "2025",
+      "full_text": "3.3%(p)inJun2025"
+    },
+    {
+      "title": "Total US nonfarm , Total Separations rate, seasonally adjusted",
+      "data_value": "3.2%(p)",
+      "period": "Jun",
+      "year": "2025",
+      "full_text": "3.2%(p)inJun2025"
+    },
+    {
+      "title": "Total US nonfarm , Quits rate, seasonally adjusted",
+      "data_value": "2.0%(p)",
+      "period": "Jun",
+      "year": "2025",
+      "full_text": "2.0%(p)inJun2025"
+    },
+    {
+      "title": "Total US nonfarm , Latest Layoffs/Discharges rate, seasonally adjusted",
+      "data_value": "1.0%(p)",
+      "period": "Jun",
+      "year": "2025",
+      "full_text": "1.0%(p)inJun2025"
+    }
+  ]
+}

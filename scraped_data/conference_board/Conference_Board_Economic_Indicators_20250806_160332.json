@@ -1,0 +1,118 @@
+{
+  "label": "Conference Board Economic Indicators",
+  "timestamp": "2025-08-06T16:03:32.635753",
+  "data": [
+    {
+      "percentage": "+ 0.3%",
+      "region": "Australia",
+      "indicator": "LEI",
+      "full_text": "+ 0.3% Australia  \r\n                                    LEI",
+      "href": "/topics/business-cycle-indicators/australia"
+    },
+    {
+      "percentage": "- 0.2%",
+      "region": "Brazil",
+      "indicator": "LEI",
+      "full_text": "- 0.2% Brazil  \r\n                                    LEI",
+      "href": "/topics/business-cycle-indicators/brazil"
+    },
+    {
+      "percentage": "- 0.2%",
+      "region": "China",
+      "indicator": "LEI",
+      "full_text": "- 0.2% China  \r\n                                    LEI",
+      "href": "/topics/business-cycle-indicators/china"
+    },
+    {
+      "percentage": "- 0.5%",
+      "region": "Euro Area",
+      "indicator": "LEI",
+      "full_text": "- 0.5% Euro Area  \r\n                                    LEI",
+      "href": "/topics/business-cycle-indicators/euro-area"
+    },
+    {
+      "percentage": "+ 0.1%",
+      "region": "France",
+      "indicator": "LEI",
+      "full_text": "+ 0.1% France  \r\n                                    LEI",
+      "href": "/topics/business-cycle-indicators/france"
+    },
+    {
+      "percentage": "+ 0.8%",
+      "region": "Germany",
+      "indicator": "LEI",
+      "full_text": "+ 0.8% Germany  \r\n                                    LEI",
+      "href": "/topics/business-cycle-indicators/germany"
+    },
+    {
+      "percentage": "- 0.3%",
+      "region": "Global",
+      "indicator": "LEI",
+      "full_text": "- 0.3% Global  \r\n                                    LEI",
+      "href": "/topics/business-cycle-indicators/global"
+    },
+    {
+      "percentage": "+ 0.1%",
+      "region": "India",
+      "indicator": "LEI",
+      "full_text": "+ 0.1% India  \r\n                                    LEI",
+      "href": "/topics/business-cycle-indicators/india"
+    },
+    {
+      "percentage": "- 0.1%",
+      "region": "Japan",
+      "indicator": "LEI",
+      "full_text": "- 0.1% Japan  \r\n                                    LEI",
+      "href": "/topics/business-cycle-indicators/japan"
+    },
+    {
+      "percentage": "+ 0.9%",
+      "region": "Mexico",
+      "indicator": "LEI",
+      "full_text": "+ 0.9% Mexico  \r\n                                    LEI",
+      "href": "/topics/business-cycle-indicators/mexico"
+    },
+    {
+      "percentage": "+ 0.2%",
+      "region": "South Korea",
+      "indicator": "LEI",
+      "full_text": "+ 0.2% South Korea  \r\n                                    LEI",
+      "href": "/topics/business-cycle-indicators/korea"
+    },
+    {
+      "percentage": "+ 0.3%",
+      "region": "Spain",
+      "indicator": "LEI",
+      "full_text": "+ 0.3% Spain  \r\n                                    LEI",
+      "href": "/topics/business-cycle-indicators/spain"
+    },
+    {
+      "percentage": "- 0.3%",
+      "region": "UK",
+      "indicator": "LEI",
+      "full_text": "- 0.3% UK  \r\n                                    LEI",
+      "href": "/topics/business-cycle-indicators/uk"
+    },
+    {
+      "percentage": "- 0.3%",
+      "region": "U.S.",
+      "indicator": "LEI",
+      "full_text": "- 0.3%  \r\n                                        U.S. \r\n                                     \r\n                                    LEI",
+      "href": "/topics/us-leading-indicators"
+    },
+    {
+      "percentage": "- 1.8%",
+      "region": "",
+      "indicator": "HWOL",
+      "full_text": "- 1.8% HWOL",
+      "href": ""
+    },
+    {
+      "percentage": "- 0.3%",
+      "region": "",
+      "indicator": "UK",
+      "full_text": "- 0.3% UK",
+      "href": ""
+    }
+  ]
+}
