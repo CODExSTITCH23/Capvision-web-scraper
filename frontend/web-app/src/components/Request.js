@@ -18,7 +18,7 @@ const RequestForm = () => {
   const handleSubmit = async () => {
     try {
       // Send request to our backend server
-      const response = await axios.post('http://localhost:3001/api/notify', {
+      const response = await axios.post('https://capvision-web-scraper.onrender.com', {
         url,
         name
       });
