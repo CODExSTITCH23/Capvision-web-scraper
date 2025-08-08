@@ -11,7 +11,7 @@ exports.handler = async function(event, context) {
   try {
     const { url, name } = JSON.parse(event.body);
 
-    await axios.post('https://hooks.slack.com/services/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', {
+    await axios.post('https://hooks.slack.com/services/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', {
       text: `${url} is requested to be scraped by ${name}`,
       blocks: [
         {
